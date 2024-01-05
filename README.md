@@ -18,26 +18,26 @@ Before running the application, ensure you have the following installed:
 
 Navigate to the Project Directory
 
-2. **After cloning, move into the project directory:
+2. After cloning, move into the project directory:
   ```
   cd fetch-dogs-app
   ```
 
-3. **Install Dependencies
+3. Install Dependencies
 
 Install all the necessary dependencies:
   ```
   npm install
   ```
 
-4. **Running the App
+4. Running the App
 To start the application in development mode, execute:
   ```
   npm start
   ```
 Open http://localhost:3000 to view the application in your browser.
 
-5. **Testing
+5. Testing
 To run tests, execute:
   ```
   npm test
