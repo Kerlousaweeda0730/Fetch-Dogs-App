@@ -1,5 +1,15 @@
 # Fetch Dogs App
 
+## Overview
+Fetch Dogs App is an interactive web application designed to connect dog lovers with their perfect canine companion. Users can browse through a variety of dog profiles, filter their search based on breed, and even find their ideal match for adoption. 
+
+## Features
+- **User Authentication:** Secure login functionality.
+- **Dog Browsing:** Users can browse through dog profiles.
+- **Filtering:** Ability to filter dogs by breed.
+- **Favorites:** Users can select and save their favorite dogs.
+- **Matching:** A unique feature to find a match for adoption based on favorites.
+
 ## Running the Application Locally
 
 ### Prerequisites
