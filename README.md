@@ -1,5 +1,11 @@
 # Fetch Dogs App
 
+<img width="1721" alt="Screenshot 2024-01-05 at 6 24 34 PM" src="https://github.com/Kerlousaweeda0730/Fetch-Dogs-App/assets/111410896/80fcd4f4-395e-43ea-8f1d-71a95eebcdf0">
+
+
+<img width="1725" alt="Screenshot 2024-01-05 at 6 24 22 PM" src="https://github.com/Kerlousaweeda0730/Fetch-Dogs-App/assets/111410896/a5892de9-9c76-4821-bf03-ee1802cb2c5f">
+
+
 ## Overview
 Fetch Dogs App is an interactive web application designed to connect dog lovers with their perfect canine companion. Users can browse through a variety of dog profiles, filter their search based on breed, and even find their ideal match for adoption. 
 
@@ -52,3 +58,5 @@ To run tests, execute:
   ```
   npm test
   ```
+
+
